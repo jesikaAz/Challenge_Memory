@@ -1,0 +1,45 @@
+/*
+Auteur: Jessica Anschutz
+Description : Challenge Memory en Javascript 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Saira');
+
+body {
+font-family: "Avant Garde", sans-serif;
+background: -webkit-linear-gradient(60deg, #220e31 10%, #66e8c8 90%);/* For Safari */
+background: -moz-linear-gradient(60deg, #220e31 10%, #66e8c8 90%); /* For Firefox */
+background-attachment: fixed;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size:4em;
+    color:#66e8c8;  
+    margin-top: 10px;
+}
+
+#container{
+  border:4px solid #220e31;
+  border-radius :20px;
+  width:800px;
+  height:900px;
+  margin:10px auto;
+  padding:10px auto;
+  text-align:center;
+  background-color: whitesmoke;
+}
+
+
+p {
+    font-family: 'Pacifico', cursive;
+    font-size:20px;
+    color:#220e31;
+    text-align: center;
+}
+
+.carte {
+    height:120px;
+    padding:20px;
+}
+
