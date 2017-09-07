@@ -38,8 +38,23 @@ p {
     text-align: center;
 }
 
-.carte {
-    height:120px;
-    padding:20px;
+.tile{
+	height: 150px;
+	width: 150px;
+	margin: 10px;
+	border: 2px solid black;
+	border-radius: 5px;
+	overflow: hidden;
+	display: inline-block;
+}
+
+.tile img {
+	max-width: 100%;
+	height: auto;
+}
+
+.tile-img {
+	max-width : 100%;
+	height: auto;
 }
 
