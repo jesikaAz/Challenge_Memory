@@ -53,7 +53,7 @@ var tileTab =[tile1, tile1, tile2, tile2, tile3, tile3, tile4, tile4, tile5, til
 			tileId1 =tileId;
 			paire ++;
 
-			return
+			return array;
 		}
 
 		else if(paire == 1)
